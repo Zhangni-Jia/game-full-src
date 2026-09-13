@@ -1,4 +1,4 @@
-// ============================================================
+﻿// ============================================================
 // 《飘·黛玉重归》互动文游 引擎 v3 — 仅追加语音 + BGM + 静音按钮
 // 原图片逻辑、节点渲染、属性系统、结局分支全部保留不变。
 // ============================================================
@@ -107,8 +107,8 @@
   function loadVoiceIndexes(cb) {
     if (voiceIndex && voicePageIndex) { cb(voiceIndex, voicePageIndex); return; }
     Promise.all([
-      fetch('assets/voice/_voice_segments.json', { cache: 'no-cache' }).then(function (r) { return r.json(); }),
-      fetch('assets/voice/_voice_page_index.json', { cache: 'no-cache' }).then(function (r) { return r.json(); })
+      fetch('assets/voice/voice_segments.json', { cache: 'no-cache' }).then(function (r) { return r.json(); }),
+      fetch('assets/voice/voice_page_index.json', { cache: 'no-cache' }).then(function (r) { return r.json(); })
     ]).then(function (all) {
       voiceIndex = all[0] || {};
       voicePageIndex = all[1] || {};
