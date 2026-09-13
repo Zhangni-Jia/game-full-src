@@ -1,0 +1,115 @@
+[
+   {
+      "text": "奴婢这就去取安神香。",
+      "pronounce_text": "奴婢这就去取安神香。",
+      "time_begin": 0.0,
+      "time_end": 1896.9160997732426,
+      "text_begin": 0,
+      "text_end": 10,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 10,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "奴",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "奴",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 256.0
+         },
+         {
+            "word": "婢",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "婢",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 256.0,
+            "time_end": 426.66666666666663
+         },
+         {
+            "word": "这",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "这",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 426.66666666666663,
+            "time_end": 597.3333333333333
+         },
+         {
+            "word": "就",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "就",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 597.3333333333333,
+            "time_end": 725.3333333333333
+         },
+         {
+            "word": "去",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "去",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 725.3333333333333,
+            "time_end": 853.3333333333333
+         },
+         {
+            "word": "取",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "取",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 853.3333333333333,
+            "time_end": 1024.0
+         },
+         {
+            "word": "安",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "安",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 1024.0,
+            "time_end": 1237.3333333333335
+         },
+         {
+            "word": "神",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "神",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1237.3333333333335,
+            "time_end": 1365.3333333333333
+         },
+         {
+            "word": "香",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "香",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1365.3333333333333,
+            "time_end": 1578.6666666666667
+         },
+         {
+            "word": "。",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 1578.6666666666667,
+            "time_end": 1792.0
+         }
+      ]
+   }
+]

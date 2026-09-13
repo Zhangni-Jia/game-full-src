@@ -1,0 +1,115 @@
+[
+   {
+      "text": "独行非孤寂，是自由。",
+      "pronounce_text": "独行非孤寂，是自由。",
+      "time_begin": 0.0,
+      "time_end": 2837.3242630385485,
+      "text_begin": 0,
+      "text_end": 10,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 10,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "独",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "独",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 170.66666666666666
+         },
+         {
+            "word": "行",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "行",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 170.66666666666666,
+            "time_end": 341.3333333333333
+         },
+         {
+            "word": "非",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "非",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 341.3333333333333,
+            "time_end": 597.3333333333333
+         },
+         {
+            "word": "孤",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "孤",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 597.3333333333333,
+            "time_end": 768.0
+         },
+         {
+            "word": "寂",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "寂",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 768.0,
+            "time_end": 938.6666666666666
+         },
+         {
+            "word": "，",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "，",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 938.6666666666666,
+            "time_end": 981.3333333333333
+         },
+         {
+            "word": "是",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "是",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 981.3333333333333,
+            "time_end": 1578.6666666666667
+         },
+         {
+            "word": "自",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "自",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1578.6666666666667,
+            "time_end": 2261.3333333333335
+         },
+         {
+            "word": "由",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "由",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 2261.3333333333335,
+            "time_end": 2517.333333333333
+         },
+         {
+            "word": "。",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 2517.333333333333,
+            "time_end": 2730.6666666666665
+         }
+      ]
+   }
+]

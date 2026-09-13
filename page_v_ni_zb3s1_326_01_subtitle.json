@@ -1,0 +1,125 @@
+[
+   {
+      "text": "旁人怎么说，不必理会。",
+      "pronounce_text": "旁人怎么说，不必理会。",
+      "time_begin": 0.0,
+      "time_end": 2071.0657596371884,
+      "text_begin": 0,
+      "text_end": 11,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 11,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "旁",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "旁",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 170.66666666666666
+         },
+         {
+            "word": "人",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "人",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 170.66666666666666,
+            "time_end": 384.0
+         },
+         {
+            "word": "怎",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "怎",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 384.0,
+            "time_end": 512.0
+         },
+         {
+            "word": "么",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "么",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 512.0,
+            "time_end": 640.0
+         },
+         {
+            "word": "说",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "说",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 640.0,
+            "time_end": 725.3333333333333
+         },
+         {
+            "word": "，",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "，",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 725.3333333333333,
+            "time_end": 768.0
+         },
+         {
+            "word": "不",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "不",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 768.0,
+            "time_end": 1152.0
+         },
+         {
+            "word": "必",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "必",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1152.0,
+            "time_end": 1450.6666666666665
+         },
+         {
+            "word": "理",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "理",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1450.6666666666665,
+            "time_end": 1578.6666666666667
+         },
+         {
+            "word": "会",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "会",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 1578.6666666666667,
+            "time_end": 1749.3333333333333
+         },
+         {
+            "word": "。",
+            "word_begin": 10,
+            "word_end": 11,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 10,
+            "pronounce_word_end": 11,
+            "time_begin": 1749.3333333333333,
+            "time_end": 1962.6666666666665
+         }
+      ]
+   }
+]

@@ -1,0 +1,125 @@
+[
+   {
+      "text": "听清了！多谢妹妹夸赞！",
+      "pronounce_text": "听清了！多谢妹妹夸赞！",
+      "time_begin": 0.0,
+      "time_end": 2245.215419501134,
+      "text_begin": 0,
+      "text_end": 11,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 11,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "听",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "听",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 213.33333333333331
+         },
+         {
+            "word": "清",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "清",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 213.33333333333331,
+            "time_end": 384.0
+         },
+         {
+            "word": "了",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "了",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 384.0,
+            "time_end": 512.0
+         },
+         {
+            "word": "！",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "！",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 512.0,
+            "time_end": 597.3333333333333
+         },
+         {
+            "word": "多",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "多",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 597.3333333333333,
+            "time_end": 1237.3333333333335
+         },
+         {
+            "word": "谢",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "谢",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 1237.3333333333335,
+            "time_end": 1408.0
+         },
+         {
+            "word": "妹",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "妹",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 1408.0,
+            "time_end": 1536.0
+         },
+         {
+            "word": "妹",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "妹",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1536.0,
+            "time_end": 1621.3333333333333
+         },
+         {
+            "word": "夸",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "夸",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1621.3333333333333,
+            "time_end": 1749.3333333333333
+         },
+         {
+            "word": "赞",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "赞",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 1749.3333333333333,
+            "time_end": 1920.0
+         },
+         {
+            "word": "！",
+            "word_begin": 10,
+            "word_end": 11,
+            "pronounce_word": "！",
+            "pronounce_word_begin": 10,
+            "pronounce_word_end": 11,
+            "time_begin": 1920.0,
+            "time_end": 2048.0
+         }
+      ]
+   }
+]

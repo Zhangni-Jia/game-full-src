@@ -1,0 +1,185 @@
+[
+   {
+      "text": "满园花开灼灼，终究要随风飘零。",
+      "pronounce_text": "满园花开灼灼，终究要随ㄈㄥˉ飘零。",
+      "time_begin": 0.0,
+      "time_end": 3313.3333333333335,
+      "text_begin": 0,
+      "text_end": 15,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 17,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "满",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "满",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 170.66666666666666
+         },
+         {
+            "word": "园",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "园",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 170.66666666666666,
+            "time_end": 341.3333333333333
+         },
+         {
+            "word": "花",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "花",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 341.3333333333333,
+            "time_end": 512.0
+         },
+         {
+            "word": "开",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "开",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 512.0,
+            "time_end": 682.6666666666666
+         },
+         {
+            "word": "灼",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "灼",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 682.6666666666666,
+            "time_end": 853.3333333333333
+         },
+         {
+            "word": "灼",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "灼",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 853.3333333333333,
+            "time_end": 981.3333333333333
+         },
+         {
+            "word": "，",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "，",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 981.3333333333333,
+            "time_end": 1024.0
+         },
+         {
+            "word": "终",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "终",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1024.0,
+            "time_end": 1621.3333333333333
+         },
+         {
+            "word": "究",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "究",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1621.3333333333333,
+            "time_end": 2133.3333333333335
+         },
+         {
+            "word": "要",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "要",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 2133.3333333333335,
+            "time_end": 2304.0
+         },
+         {
+            "word": "随",
+            "word_begin": 10,
+            "word_end": 11,
+            "pronounce_word": "随",
+            "pronounce_word_begin": 10,
+            "pronounce_word_end": 11,
+            "time_begin": 2304.0,
+            "time_end": 2474.666666666667
+         },
+         {
+            "word": "风",
+            "word_begin": 11,
+            "word_end": 12,
+            "pronounce_word": "ㄈ",
+            "pronounce_word_begin": 11,
+            "pronounce_word_end": 12,
+            "time_begin": 2474.666666666667,
+            "time_end": 2602.6666666666665
+         },
+         {
+            "word": "风",
+            "word_begin": 11,
+            "word_end": 12,
+            "pronounce_word": "ㄥ",
+            "pronounce_word_begin": 12,
+            "pronounce_word_end": 13,
+            "time_begin": 2602.6666666666665,
+            "time_end": 2645.3333333333335
+         },
+         {
+            "word": "风",
+            "word_begin": 11,
+            "word_end": 12,
+            "pronounce_word": "ˉ",
+            "pronounce_word_begin": 13,
+            "pronounce_word_end": 14,
+            "time_begin": 2645.3333333333335,
+            "time_end": 2687.9999999999995
+         },
+         {
+            "word": "飘",
+            "word_begin": 12,
+            "word_end": 13,
+            "pronounce_word": "飘",
+            "pronounce_word_begin": 14,
+            "pronounce_word_end": 15,
+            "time_begin": 2687.9999999999995,
+            "time_end": 2816.0
+         },
+         {
+            "word": "零",
+            "word_begin": 13,
+            "word_end": 14,
+            "pronounce_word": "零",
+            "pronounce_word_begin": 15,
+            "pronounce_word_end": 16,
+            "time_begin": 2816.0,
+            "time_end": 3029.333333333333
+         },
+         {
+            "word": "。",
+            "word_begin": 14,
+            "word_end": 15,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 16,
+            "pronounce_word_end": 17,
+            "time_begin": 3029.333333333333,
+            "time_end": 3199.9999999999995
+         }
+      ]
+   }
+]

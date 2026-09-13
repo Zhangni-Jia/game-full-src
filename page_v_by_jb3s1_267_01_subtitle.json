@@ -1,0 +1,65 @@
+[
+   {
+      "text": "自然准许！",
+      "pronounce_text": "自然准许！",
+      "time_begin": 0.0,
+      "time_end": 1211.9274376417234,
+      "text_begin": 0,
+      "text_end": 5,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 5,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "自",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "自",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 298.66666666666663
+         },
+         {
+            "word": "然",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "然",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 298.66666666666663,
+            "time_end": 512.0
+         },
+         {
+            "word": "准",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "准",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 512.0,
+            "time_end": 682.6666666666666
+         },
+         {
+            "word": "许",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "许",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 682.6666666666666,
+            "time_end": 853.3333333333333
+         },
+         {
+            "word": "！",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "！",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 853.3333333333333,
+            "time_end": 1109.3333333333333
+         }
+      ]
+   }
+]

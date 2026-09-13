@@ -1,0 +1,165 @@
+[
+   {
+      "text": "我坚守的情意，果真一文不值吗？",
+      "pronounce_text": "我坚守的情意，果真一文不值吗？",
+      "time_begin": 0.0,
+      "time_end": 2837.3242630385485,
+      "text_begin": 0,
+      "text_end": 15,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 15,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "我",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "我",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 256.0
+         },
+         {
+            "word": "坚",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "坚",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 256.0,
+            "time_end": 384.0
+         },
+         {
+            "word": "守",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "守",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 384.0,
+            "time_end": 554.6666666666666
+         },
+         {
+            "word": "的",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "的",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 554.6666666666666,
+            "time_end": 597.3333333333333
+         },
+         {
+            "word": "情",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "情",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 597.3333333333333,
+            "time_end": 768.0
+         },
+         {
+            "word": "意",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "意",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 768.0,
+            "time_end": 938.6666666666666
+         },
+         {
+            "word": "，",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "，",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 938.6666666666666,
+            "time_end": 981.3333333333333
+         },
+         {
+            "word": "果",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "果",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 981.3333333333333,
+            "time_end": 1493.3333333333333
+         },
+         {
+            "word": "真",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "真",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1493.3333333333333,
+            "time_end": 1792.0
+         },
+         {
+            "word": "一",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "一",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 1792.0,
+            "time_end": 1962.6666666666665
+         },
+         {
+            "word": "文",
+            "word_begin": 10,
+            "word_end": 11,
+            "pronounce_word": "文",
+            "pronounce_word_begin": 10,
+            "pronounce_word_end": 11,
+            "time_begin": 1962.6666666666665,
+            "time_end": 2090.6666666666665
+         },
+         {
+            "word": "不",
+            "word_begin": 11,
+            "word_end": 12,
+            "pronounce_word": "不",
+            "pronounce_word_begin": 11,
+            "pronounce_word_end": 12,
+            "time_begin": 2090.6666666666665,
+            "time_end": 2218.6666666666665
+         },
+         {
+            "word": "值",
+            "word_begin": 12,
+            "word_end": 13,
+            "pronounce_word": "值",
+            "pronounce_word_begin": 12,
+            "pronounce_word_end": 13,
+            "time_begin": 2218.6666666666665,
+            "time_end": 2346.6666666666665
+         },
+         {
+            "word": "吗",
+            "word_begin": 13,
+            "word_end": 14,
+            "pronounce_word": "吗",
+            "pronounce_word_begin": 13,
+            "pronounce_word_end": 14,
+            "time_begin": 2346.6666666666665,
+            "time_end": 2517.333333333333
+         },
+         {
+            "word": "？",
+            "word_begin": 14,
+            "word_end": 15,
+            "pronounce_word": "？",
+            "pronounce_word_begin": 14,
+            "pronounce_word_end": 15,
+            "time_begin": 2517.333333333333,
+            "time_end": 2560.0
+         }
+      ]
+   }
+]

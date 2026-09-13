@@ -1,0 +1,325 @@
+[
+   {
+      "text": "朝堂耗费心神，还要分心保全我，若是将自己耗尽，何人来护王爷你？",
+      "pronounce_text": "朝堂耗费心神，还要分心保全我，若是将自己耗尽，何人来护王爷你？",
+      "time_begin": 0.0,
+      "time_end": 6726.666666666667,
+      "text_begin": 0,
+      "text_end": 31,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 31,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "朝",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "朝",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 170.66666666666666
+         },
+         {
+            "word": "堂",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "堂",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 170.66666666666666,
+            "time_end": 426.66666666666663
+         },
+         {
+            "word": "耗",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "耗",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 426.66666666666663,
+            "time_end": 597.3333333333333
+         },
+         {
+            "word": "费",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "费",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 597.3333333333333,
+            "time_end": 768.0
+         },
+         {
+            "word": "心",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "心",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 768.0,
+            "time_end": 896.0
+         },
+         {
+            "word": "神",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "神",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 896.0,
+            "time_end": 1109.3333333333333
+         },
+         {
+            "word": "，",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "，",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 1109.3333333333333,
+            "time_end": 1152.0
+         },
+         {
+            "word": "还",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "还",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1152.0,
+            "time_end": 1621.3333333333333
+         },
+         {
+            "word": "要",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "要",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1621.3333333333333,
+            "time_end": 1962.6666666666665
+         },
+         {
+            "word": "分",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "分",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 1962.6666666666665,
+            "time_end": 2090.6666666666665
+         },
+         {
+            "word": "心",
+            "word_begin": 10,
+            "word_end": 11,
+            "pronounce_word": "心",
+            "pronounce_word_begin": 10,
+            "pronounce_word_end": 11,
+            "time_begin": 2090.6666666666665,
+            "time_end": 2261.3333333333335
+         },
+         {
+            "word": "保",
+            "word_begin": 11,
+            "word_end": 12,
+            "pronounce_word": "保",
+            "pronounce_word_begin": 11,
+            "pronounce_word_end": 12,
+            "time_begin": 2261.3333333333335,
+            "time_end": 2432.0
+         },
+         {
+            "word": "全",
+            "word_begin": 12,
+            "word_end": 13,
+            "pronounce_word": "全",
+            "pronounce_word_begin": 12,
+            "pronounce_word_end": 13,
+            "time_begin": 2432.0,
+            "time_end": 2602.6666666666665
+         },
+         {
+            "word": "我",
+            "word_begin": 13,
+            "word_end": 14,
+            "pronounce_word": "我",
+            "pronounce_word_begin": 13,
+            "pronounce_word_end": 14,
+            "time_begin": 2602.6666666666665,
+            "time_end": 2816.0
+         },
+         {
+            "word": "，",
+            "word_begin": 14,
+            "word_end": 15,
+            "pronounce_word": "，",
+            "pronounce_word_begin": 14,
+            "pronounce_word_end": 15,
+            "time_begin": 2816.0,
+            "time_end": 2858.6666666666665
+         },
+         {
+            "word": "若",
+            "word_begin": 15,
+            "word_end": 16,
+            "pronounce_word": "若",
+            "pronounce_word_begin": 15,
+            "pronounce_word_end": 16,
+            "time_begin": 2858.6666666666665,
+            "time_end": 3882.6666666666665
+         },
+         {
+            "word": "是",
+            "word_begin": 16,
+            "word_end": 17,
+            "pronounce_word": "是",
+            "pronounce_word_begin": 16,
+            "pronounce_word_end": 17,
+            "time_begin": 3882.6666666666665,
+            "time_end": 4053.3333333333326
+         },
+         {
+            "word": "将",
+            "word_begin": 17,
+            "word_end": 18,
+            "pronounce_word": "将",
+            "pronounce_word_begin": 17,
+            "pronounce_word_end": 18,
+            "time_begin": 4053.3333333333326,
+            "time_end": 4181.333333333333
+         },
+         {
+            "word": "自",
+            "word_begin": 18,
+            "word_end": 19,
+            "pronounce_word": "自",
+            "pronounce_word_begin": 18,
+            "pronounce_word_end": 19,
+            "time_begin": 4181.333333333333,
+            "time_end": 4351.999999999999
+         },
+         {
+            "word": "己",
+            "word_begin": 19,
+            "word_end": 20,
+            "pronounce_word": "己",
+            "pronounce_word_begin": 19,
+            "pronounce_word_end": 20,
+            "time_begin": 4351.999999999999,
+            "time_end": 4479.999999999999
+         },
+         {
+            "word": "耗",
+            "word_begin": 20,
+            "word_end": 21,
+            "pronounce_word": "耗",
+            "pronounce_word_begin": 20,
+            "pronounce_word_end": 21,
+            "time_begin": 4479.999999999999,
+            "time_end": 4650.666666666667
+         },
+         {
+            "word": "尽",
+            "word_begin": 21,
+            "word_end": 22,
+            "pronounce_word": "尽",
+            "pronounce_word_begin": 21,
+            "pronounce_word_end": 22,
+            "time_begin": 4650.666666666667,
+            "time_end": 4821.333333333333
+         },
+         {
+            "word": "，",
+            "word_begin": 22,
+            "word_end": 23,
+            "pronounce_word": "，",
+            "pronounce_word_begin": 22,
+            "pronounce_word_end": 23,
+            "time_begin": 4821.333333333333,
+            "time_end": 4864.0
+         },
+         {
+            "word": "何",
+            "word_begin": 23,
+            "word_end": 24,
+            "pronounce_word": "何",
+            "pronounce_word_begin": 23,
+            "pronounce_word_end": 24,
+            "time_begin": 4864.0,
+            "time_end": 5418.666666666667
+         },
+         {
+            "word": "人",
+            "word_begin": 24,
+            "word_end": 25,
+            "pronounce_word": "人",
+            "pronounce_word_begin": 24,
+            "pronounce_word_end": 25,
+            "time_begin": 5418.666666666667,
+            "time_end": 5674.666666666666
+         },
+         {
+            "word": "来",
+            "word_begin": 25,
+            "word_end": 26,
+            "pronounce_word": "来",
+            "pronounce_word_begin": 25,
+            "pronounce_word_end": 26,
+            "time_begin": 5674.666666666666,
+            "time_end": 5760.0
+         },
+         {
+            "word": "护",
+            "word_begin": 26,
+            "word_end": 27,
+            "pronounce_word": "护",
+            "pronounce_word_begin": 26,
+            "pronounce_word_end": 27,
+            "time_begin": 5760.0,
+            "time_end": 5930.666666666666
+         },
+         {
+            "word": "王",
+            "word_begin": 27,
+            "word_end": 28,
+            "pronounce_word": "王",
+            "pronounce_word_begin": 27,
+            "pronounce_word_end": 28,
+            "time_begin": 5930.666666666666,
+            "time_end": 6058.666666666666
+         },
+         {
+            "word": "爷",
+            "word_begin": 28,
+            "word_end": 29,
+            "pronounce_word": "爷",
+            "pronounce_word_begin": 28,
+            "pronounce_word_end": 29,
+            "time_begin": 6058.666666666666,
+            "time_end": 6229.333333333333
+         },
+         {
+            "word": "你",
+            "word_begin": 29,
+            "word_end": 30,
+            "pronounce_word": "你",
+            "pronounce_word_begin": 29,
+            "pronounce_word_end": 30,
+            "time_begin": 6229.333333333333,
+            "time_end": 6357.333333333333
+         },
+         {
+            "word": "？",
+            "word_begin": 30,
+            "word_end": 31,
+            "pronounce_word": "？",
+            "pronounce_word_begin": 30,
+            "pronounce_word_end": 31,
+            "time_begin": 6357.333333333333,
+            "time_end": 6399.999999999999
+         }
+      ]
+   }
+]

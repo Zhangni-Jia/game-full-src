@@ -1,0 +1,195 @@
+[
+   {
+      "text": "我知晓。我会陪你熬过这段最难的光景。",
+      "pronounce_text": "我知晓。我会陪你熬过这段最难的光景。",
+      "time_begin": 0.0,
+      "time_end": 3824.172335600907,
+      "text_begin": 0,
+      "text_end": 18,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 18,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "我",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "我",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 213.33333333333331
+         },
+         {
+            "word": "知",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "知",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 213.33333333333331,
+            "time_end": 384.0
+         },
+         {
+            "word": "晓",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "晓",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 384.0,
+            "time_end": 597.3333333333333
+         },
+         {
+            "word": "。",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 597.3333333333333,
+            "time_end": 725.3333333333333
+         },
+         {
+            "word": "我",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "我",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 725.3333333333333,
+            "time_end": 938.6666666666666
+         },
+         {
+            "word": "会",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "会",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 938.6666666666666,
+            "time_end": 1834.6666666666667
+         },
+         {
+            "word": "陪",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "陪",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 1834.6666666666667,
+            "time_end": 1962.6666666666665
+         },
+         {
+            "word": "你",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "你",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1962.6666666666665,
+            "time_end": 2133.3333333333335
+         },
+         {
+            "word": "熬",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "熬",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 2133.3333333333335,
+            "time_end": 2304.0
+         },
+         {
+            "word": "过",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "过",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 2304.0,
+            "time_end": 2432.0
+         },
+         {
+            "word": "这",
+            "word_begin": 10,
+            "word_end": 11,
+            "pronounce_word": "这",
+            "pronounce_word_begin": 10,
+            "pronounce_word_end": 11,
+            "time_begin": 2432.0,
+            "time_end": 2602.6666666666665
+         },
+         {
+            "word": "段",
+            "word_begin": 11,
+            "word_end": 12,
+            "pronounce_word": "段",
+            "pronounce_word_begin": 11,
+            "pronounce_word_end": 12,
+            "time_begin": 2602.6666666666665,
+            "time_end": 2730.6666666666665
+         },
+         {
+            "word": "最",
+            "word_begin": 12,
+            "word_end": 13,
+            "pronounce_word": "最",
+            "pronounce_word_begin": 12,
+            "pronounce_word_end": 13,
+            "time_begin": 2730.6666666666665,
+            "time_end": 2858.6666666666665
+         },
+         {
+            "word": "难",
+            "word_begin": 13,
+            "word_end": 14,
+            "pronounce_word": "难",
+            "pronounce_word_begin": 13,
+            "pronounce_word_end": 14,
+            "time_begin": 2858.6666666666665,
+            "time_end": 3029.333333333333
+         },
+         {
+            "word": "的",
+            "word_begin": 14,
+            "word_end": 15,
+            "pronounce_word": "的",
+            "pronounce_word_begin": 14,
+            "pronounce_word_end": 15,
+            "time_begin": 3029.333333333333,
+            "time_end": 3072.0
+         },
+         {
+            "word": "光",
+            "word_begin": 15,
+            "word_end": 16,
+            "pronounce_word": "光",
+            "pronounce_word_begin": 15,
+            "pronounce_word_end": 16,
+            "time_begin": 3072.0,
+            "time_end": 3285.3333333333335
+         },
+         {
+            "word": "景",
+            "word_begin": 16,
+            "word_end": 17,
+            "pronounce_word": "景",
+            "pronounce_word_begin": 16,
+            "pronounce_word_end": 17,
+            "time_begin": 3285.3333333333335,
+            "time_end": 3498.6666666666665
+         },
+         {
+            "word": "。",
+            "word_begin": 17,
+            "word_end": 18,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 17,
+            "pronounce_word_end": 18,
+            "time_begin": 3498.6666666666665,
+            "time_end": 3711.9999999999995
+         }
+      ]
+   }
+]

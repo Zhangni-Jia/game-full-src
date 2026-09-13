@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "records": [],
+  "cancelTombstones": [],
+  "turnHandoffMarkers": [
+    {
+      "rootSessionId": "ses_f69862d14ffeP41ZDiPdjWkcSC",
+      "turnId": "ses_f69862d14ffeP41ZDiPdjWkcSC#5",
+      "chatTurnId": "6aa6454be7d606629551143b329ac8f2",
+      "at": 1789281770054
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+[
+   {
+      "text": "我怎配点醒妹妹？",
+      "pronounce_text": "我怎配点醒妹妹？",
+      "time_begin": 0.0,
+      "time_end": 1432.5170068027212,
+      "text_begin": 0,
+      "text_end": 8,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 8,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "我",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "我",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 170.66666666666666
+         },
+         {
+            "word": "怎",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "怎",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 170.66666666666666,
+            "time_end": 298.66666666666663
+         },
+         {
+            "word": "配",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "配",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 298.66666666666663,
+            "time_end": 512.0
+         },
+         {
+            "word": "点",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "点",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 512.0,
+            "time_end": 682.6666666666666
+         },
+         {
+            "word": "醒",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "醒",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 682.6666666666666,
+            "time_end": 853.3333333333333
+         },
+         {
+            "word": "妹",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "妹",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 853.3333333333333,
+            "time_end": 1024.0
+         },
+         {
+            "word": "妹",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "妹",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 1024.0,
+            "time_end": 1280.0
+         },
+         {
+            "word": "？",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "？",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1280.0,
+            "time_end": 1322.6666666666667
+         }
+      ]
+   }
+]

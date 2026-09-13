@@ -1,0 +1,105 @@
+[
+   {
+      "text": "这般，真的有用吗？",
+      "pronounce_text": "这般，真的有用吗？",
+      "time_begin": 0.0,
+      "time_end": 2071.0657596371884,
+      "text_begin": 0,
+      "text_end": 9,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 9,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "这",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "这",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 128.0
+         },
+         {
+            "word": "般",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "般",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 128.0,
+            "time_end": 341.3333333333333
+         },
+         {
+            "word": "，",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "，",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 341.3333333333333,
+            "time_end": 384.0
+         },
+         {
+            "word": "真",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "真",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 384.0,
+            "time_end": 725.3333333333333
+         },
+         {
+            "word": "的",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "的",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 725.3333333333333,
+            "time_end": 1194.6666666666665
+         },
+         {
+            "word": "有",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "有",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 1194.6666666666665,
+            "time_end": 1493.3333333333333
+         },
+         {
+            "word": "用",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "用",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 1493.3333333333333,
+            "time_end": 1621.3333333333333
+         },
+         {
+            "word": "吗",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "吗",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1621.3333333333333,
+            "time_end": 1792.0
+         },
+         {
+            "word": "？",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "？",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1792.0,
+            "time_end": 1834.6666666666667
+         }
+      ]
+   }
+]

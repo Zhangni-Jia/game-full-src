@@ -1,0 +1,125 @@
+[
+   {
+      "text": "紫鹃过来，我有话问你。",
+      "pronounce_text": "紫鹃过来，我有话问你。",
+      "time_begin": 0.0,
+      "time_end": 1943.356009070295,
+      "text_begin": 0,
+      "text_end": 11,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 11,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "紫",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "紫",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 170.66666666666666
+         },
+         {
+            "word": "鹃",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "鹃",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 170.66666666666666,
+            "time_end": 341.3333333333333
+         },
+         {
+            "word": "过",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "过",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 341.3333333333333,
+            "time_end": 512.0
+         },
+         {
+            "word": "来",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "来",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 512.0,
+            "time_end": 640.0
+         },
+         {
+            "word": "，",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "，",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 640.0,
+            "time_end": 682.6666666666666
+         },
+         {
+            "word": "我",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "我",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 682.6666666666666,
+            "time_end": 896.0
+         },
+         {
+            "word": "有",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "有",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 896.0,
+            "time_end": 1280.0
+         },
+         {
+            "word": "话",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "话",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1280.0,
+            "time_end": 1365.3333333333333
+         },
+         {
+            "word": "问",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "问",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1365.3333333333333,
+            "time_end": 1536.0
+         },
+         {
+            "word": "你",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "你",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 1536.0,
+            "time_end": 1664.0
+         },
+         {
+            "word": "。",
+            "word_begin": 10,
+            "word_end": 11,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 10,
+            "pronounce_word_end": 11,
+            "time_begin": 1664.0,
+            "time_end": 1792.0
+         }
+      ]
+   }
+]

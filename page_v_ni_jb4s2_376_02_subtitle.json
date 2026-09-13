@@ -1,0 +1,135 @@
+[
+   {
+      "text": "留得⻘山在，不怕没柴烧。",
+      "pronounce_text": "留得⻘山在，不怕没柴烧。",
+      "time_begin": 0.0,
+      "time_end": 2709.614512471655,
+      "text_begin": 0,
+      "text_end": 12,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 12,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "留",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "留",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 298.66666666666663
+         },
+         {
+            "word": "得",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "得",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 298.66666666666663,
+            "time_end": 469.3333333333333
+         },
+         {
+            "word": "⻘",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": " ",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 469.3333333333333,
+            "time_end": 597.3333333333333
+         },
+         {
+            "word": "山",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "山",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 597.3333333333333,
+            "time_end": 640.0
+         },
+         {
+            "word": "在",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "在",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 640.0,
+            "time_end": 1024.0
+         },
+         {
+            "word": "，",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "，",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 1024.0,
+            "time_end": 1066.6666666666667
+         },
+         {
+            "word": "不",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "不",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 1066.6666666666667,
+            "time_end": 1365.3333333333333
+         },
+         {
+            "word": "怕",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "怕",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1365.3333333333333,
+            "time_end": 1792.0
+         },
+         {
+            "word": "没",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "没",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1792.0,
+            "time_end": 1962.6666666666665
+         },
+         {
+            "word": "柴",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "柴",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 1962.6666666666665,
+            "time_end": 2090.6666666666665
+         },
+         {
+            "word": "烧",
+            "word_begin": 10,
+            "word_end": 11,
+            "pronounce_word": "烧",
+            "pronounce_word_begin": 10,
+            "pronounce_word_end": 11,
+            "time_begin": 2090.6666666666665,
+            "time_end": 2304.0
+         },
+         {
+            "word": "。",
+            "word_begin": 11,
+            "word_end": 12,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 11,
+            "pronounce_word_end": 12,
+            "time_begin": 2304.0,
+            "time_end": 2560.0
+         }
+      ]
+   }
+]

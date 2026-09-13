@@ -1,0 +1,115 @@
+[
+   {
+      "text": "煮茶听雨，安度朝夕。",
+      "pronounce_text": "煮茶听雨，安度朝夕。",
+      "time_begin": 0.0,
+      "time_end": 2280.045351473923,
+      "text_begin": 0,
+      "text_end": 10,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 10,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "煮",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "煮",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 170.66666666666666
+         },
+         {
+            "word": "茶",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "茶",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 170.66666666666666,
+            "time_end": 341.3333333333333
+         },
+         {
+            "word": "听",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "听",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 341.3333333333333,
+            "time_end": 512.0
+         },
+         {
+            "word": "雨",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "雨",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 512.0,
+            "time_end": 725.3333333333333
+         },
+         {
+            "word": "，",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "，",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 725.3333333333333,
+            "time_end": 768.0
+         },
+         {
+            "word": "安",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "安",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 768.0,
+            "time_end": 1408.0
+         },
+         {
+            "word": "度",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "度",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 1408.0,
+            "time_end": 1578.6666666666667
+         },
+         {
+            "word": "朝",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "朝",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1578.6666666666667,
+            "time_end": 1749.3333333333333
+         },
+         {
+            "word": "夕",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "夕",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1749.3333333333333,
+            "time_end": 1920.0
+         },
+         {
+            "word": "。",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 1920.0,
+            "time_end": 2175.9999999999995
+         }
+      ]
+   }
+]

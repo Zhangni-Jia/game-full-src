@@ -1,0 +1,115 @@
+[
+   {
+      "text": "有缘相逢，无缘别过。",
+      "pronounce_text": "有缘相逢，无缘别过。",
+      "time_begin": 0.0,
+      "time_end": 2500.6349206349205,
+      "text_begin": 0,
+      "text_end": 10,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 10,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "有",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "有",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 170.66666666666666
+         },
+         {
+            "word": "缘",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "缘",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 170.66666666666666,
+            "time_end": 384.0
+         },
+         {
+            "word": "相",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "相",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 384.0,
+            "time_end": 554.6666666666666
+         },
+         {
+            "word": "逢",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "逢",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 554.6666666666666,
+            "time_end": 768.0
+         },
+         {
+            "word": "，",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "，",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 768.0,
+            "time_end": 810.6666666666666
+         },
+         {
+            "word": "无",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "无",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 810.6666666666666,
+            "time_end": 1365.3333333333333
+         },
+         {
+            "word": "缘",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "缘",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 1365.3333333333333,
+            "time_end": 1792.0
+         },
+         {
+            "word": "别",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "别",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1792.0,
+            "time_end": 2005.3333333333333
+         },
+         {
+            "word": "过",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "过",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 2005.3333333333333,
+            "time_end": 2175.9999999999995
+         },
+         {
+            "word": "。",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 2175.9999999999995,
+            "time_end": 2432.0
+         }
+      ]
+   }
+]

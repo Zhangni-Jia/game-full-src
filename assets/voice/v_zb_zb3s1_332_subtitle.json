@@ -1,0 +1,105 @@
+[
+   {
+      "text": "好，我会挺直身子。",
+      "pronounce_text": "好，我会挺直身子。",
+      "time_begin": 0.0,
+      "time_end": 2790.884353741497,
+      "text_begin": 0,
+      "text_end": 9,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 9,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "好",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "好",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 213.33333333333331
+         },
+         {
+            "word": "，",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "，",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 213.33333333333331,
+            "time_end": 256.0
+         },
+         {
+            "word": "我",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "我",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 256.0,
+            "time_end": 597.3333333333333
+         },
+         {
+            "word": "会",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "会",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 597.3333333333333,
+            "time_end": 1664.0
+         },
+         {
+            "word": "挺",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "挺",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 1664.0,
+            "time_end": 1834.6666666666667
+         },
+         {
+            "word": "直",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "直",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 1834.6666666666667,
+            "time_end": 2048.0
+         },
+         {
+            "word": "身",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "身",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 2048.0,
+            "time_end": 2175.9999999999995
+         },
+         {
+            "word": "子",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "子",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 2175.9999999999995,
+            "time_end": 2389.333333333333
+         },
+         {
+            "word": "。",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 2389.333333333333,
+            "time_end": 2560.0
+         }
+      ]
+   }
+]

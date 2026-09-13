@@ -1,0 +1,85 @@
+[
+   {
+      "text": "甄宝玉，过来。",
+      "pronounce_text": "甄宝玉，过来。",
+      "time_begin": 0.0,
+      "time_end": 1513.7868480725624,
+      "text_begin": 0,
+      "text_end": 7,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 7,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "甄",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "甄",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 213.33333333333331
+         },
+         {
+            "word": "宝",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "宝",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 213.33333333333331,
+            "time_end": 384.0
+         },
+         {
+            "word": "玉",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "玉",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 384.0,
+            "time_end": 512.0
+         },
+         {
+            "word": "，",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "，",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 512.0,
+            "time_end": 554.6666666666666
+         },
+         {
+            "word": "过",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "过",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 554.6666666666666,
+            "time_end": 768.0
+         },
+         {
+            "word": "来",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "来",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 768.0,
+            "time_end": 1280.0
+         },
+         {
+            "word": "。",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 1280.0,
+            "time_end": 1408.0
+         }
+      ]
+   }
+]

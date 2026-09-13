@@ -1,0 +1,175 @@
+[
+   {
+      "text": "姑娘眼界，胜过府中一众掌权长辈。",
+      "pronounce_text": "姑娘眼界，胜过府中一众掌权长辈。",
+      "time_begin": 0.0,
+      "time_end": 3475.873015873016,
+      "text_begin": 0,
+      "text_end": 16,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 16,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "姑",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "姑",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 170.66666666666666
+         },
+         {
+            "word": "娘",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "娘",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 170.66666666666666,
+            "time_end": 341.3333333333333
+         },
+         {
+            "word": "眼",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "眼",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 341.3333333333333,
+            "time_end": 469.3333333333333
+         },
+         {
+            "word": "界",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "界",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 469.3333333333333,
+            "time_end": 640.0
+         },
+         {
+            "word": "，",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "，",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 640.0,
+            "time_end": 682.6666666666666
+         },
+         {
+            "word": "胜",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "胜",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 682.6666666666666,
+            "time_end": 1194.6666666666665
+         },
+         {
+            "word": "过",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "过",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 1194.6666666666665,
+            "time_end": 1536.0
+         },
+         {
+            "word": "府",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "府",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1536.0,
+            "time_end": 1664.0
+         },
+         {
+            "word": "中",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "中",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1664.0,
+            "time_end": 1834.6666666666667
+         },
+         {
+            "word": "一",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "一",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 1834.6666666666667,
+            "time_end": 2005.3333333333333
+         },
+         {
+            "word": "众",
+            "word_begin": 10,
+            "word_end": 11,
+            "pronounce_word": "众",
+            "pronounce_word_begin": 10,
+            "pronounce_word_end": 11,
+            "time_begin": 2005.3333333333333,
+            "time_end": 2133.3333333333335
+         },
+         {
+            "word": "掌",
+            "word_begin": 11,
+            "word_end": 12,
+            "pronounce_word": "掌",
+            "pronounce_word_begin": 11,
+            "pronounce_word_end": 12,
+            "time_begin": 2133.3333333333335,
+            "time_end": 2304.0
+         },
+         {
+            "word": "权",
+            "word_begin": 12,
+            "word_end": 13,
+            "pronounce_word": "权",
+            "pronounce_word_begin": 12,
+            "pronounce_word_end": 13,
+            "time_begin": 2304.0,
+            "time_end": 2816.0
+         },
+         {
+            "word": "长",
+            "word_begin": 13,
+            "word_end": 14,
+            "pronounce_word": "长",
+            "pronounce_word_begin": 13,
+            "pronounce_word_end": 14,
+            "time_begin": 2816.0,
+            "time_end": 3029.333333333333
+         },
+         {
+            "word": "辈",
+            "word_begin": 14,
+            "word_end": 15,
+            "pronounce_word": "辈",
+            "pronounce_word_begin": 14,
+            "pronounce_word_end": 15,
+            "time_begin": 3029.333333333333,
+            "time_end": 3199.9999999999995
+         },
+         {
+            "word": "。",
+            "word_begin": 15,
+            "word_end": 16,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 15,
+            "pronounce_word_end": 16,
+            "time_begin": 3199.9999999999995,
+            "time_end": 3370.6666666666665
+         }
+      ]
+   }
+]

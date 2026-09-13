@@ -1,0 +1,95 @@
+[
+   {
+      "text": "这份滋味，我懂。",
+      "pronounce_text": "这份滋味，我懂。",
+      "time_begin": 0.0,
+      "time_end": 2407.7551020408164,
+      "text_begin": 0,
+      "text_end": 8,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 8,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "这",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "这",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 213.33333333333331
+         },
+         {
+            "word": "份",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "份",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 213.33333333333331,
+            "time_end": 384.0
+         },
+         {
+            "word": "滋",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "滋",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 384.0,
+            "time_end": 554.6666666666666
+         },
+         {
+            "word": "味",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "味",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 554.6666666666666,
+            "time_end": 725.3333333333333
+         },
+         {
+            "word": "，",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "，",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 725.3333333333333,
+            "time_end": 768.0
+         },
+         {
+            "word": "我",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "我",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 768.0,
+            "time_end": 1109.3333333333333
+         },
+         {
+            "word": "懂",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "懂",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 1109.3333333333333,
+            "time_end": 2048.0
+         },
+         {
+            "word": "。",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 2048.0,
+            "time_end": 2304.0
+         }
+      ]
+   }
+]

@@ -1,0 +1,65 @@
+[
+   {
+      "text": "二者皆是。",
+      "pronounce_text": "二者皆是。",
+      "time_begin": 0.0,
+      "time_end": 1084.2176870748299,
+      "text_begin": 0,
+      "text_end": 5,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 5,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "二",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "二",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 170.66666666666666
+         },
+         {
+            "word": "者",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "者",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 170.66666666666666,
+            "time_end": 384.0
+         },
+         {
+            "word": "皆",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "皆",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 384.0,
+            "time_end": 597.3333333333333
+         },
+         {
+            "word": "是",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "是",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 597.3333333333333,
+            "time_end": 768.0
+         },
+         {
+            "word": "。",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 768.0,
+            "time_end": 981.3333333333333
+         }
+      ]
+   }
+]

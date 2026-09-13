@@ -1,0 +1,105 @@
+[
+   {
+      "text": "如此安排才算妥当。",
+      "pronounce_text": "如此安排才算妥当。",
+      "time_begin": 0.0,
+      "time_end": 2117.5056689342405,
+      "text_begin": 0,
+      "text_end": 9,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 9,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "如",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "如",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 213.33333333333331
+         },
+         {
+            "word": "此",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "此",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 213.33333333333331,
+            "time_end": 384.0
+         },
+         {
+            "word": "安",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "安",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 384.0,
+            "time_end": 554.6666666666666
+         },
+         {
+            "word": "排",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "排",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 554.6666666666666,
+            "time_end": 725.3333333333333
+         },
+         {
+            "word": "才",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "才",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 725.3333333333333,
+            "time_end": 1024.0
+         },
+         {
+            "word": "算",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "算",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 1024.0,
+            "time_end": 1450.6666666666665
+         },
+         {
+            "word": "妥",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "妥",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 1450.6666666666665,
+            "time_end": 1621.3333333333333
+         },
+         {
+            "word": "当",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "当",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1621.3333333333333,
+            "time_end": 1792.0
+         },
+         {
+            "word": "。",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1792.0,
+            "time_end": 1962.6666666666665
+         }
+      ]
+   }
+]

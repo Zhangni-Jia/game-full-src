@@ -1,0 +1,185 @@
+[
+   {
+      "text": "北静王推迟行期，只求再⻅姑娘一面。",
+      "pronounce_text": "北静王推迟行期，只求再⻅姑娘一面。",
+      "time_begin": 0.0,
+      "time_end": 3905.442176870749,
+      "text_begin": 0,
+      "text_end": 17,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 17,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "北",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "北",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 213.33333333333331
+         },
+         {
+            "word": "静",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "静",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 213.33333333333331,
+            "time_end": 384.0
+         },
+         {
+            "word": "王",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "王",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 384.0,
+            "time_end": 554.6666666666666
+         },
+         {
+            "word": "推",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "推",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 554.6666666666666,
+            "time_end": 768.0
+         },
+         {
+            "word": "迟",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "迟",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 768.0,
+            "time_end": 981.3333333333333
+         },
+         {
+            "word": "行",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "行",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 981.3333333333333,
+            "time_end": 1152.0
+         },
+         {
+            "word": "期",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "期",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 1152.0,
+            "time_end": 1365.3333333333333
+         },
+         {
+            "word": "，",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "，",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1365.3333333333333,
+            "time_end": 1408.0
+         },
+         {
+            "word": "只",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "只",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1408.0,
+            "time_end": 1877.3333333333333
+         },
+         {
+            "word": "求",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "求",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 1877.3333333333333,
+            "time_end": 2261.3333333333335
+         },
+         {
+            "word": "再",
+            "word_begin": 10,
+            "word_end": 11,
+            "pronounce_word": "再",
+            "pronounce_word_begin": 10,
+            "pronounce_word_end": 11,
+            "time_begin": 2261.3333333333335,
+            "time_end": 2560.0
+         },
+         {
+            "word": "⻅",
+            "word_begin": 11,
+            "word_end": 12,
+            "pronounce_word": " ",
+            "pronounce_word_begin": 11,
+            "pronounce_word_end": 12,
+            "time_begin": 2560.0,
+            "time_end": 2901.333333333333
+         },
+         {
+            "word": "姑",
+            "word_begin": 12,
+            "word_end": 13,
+            "pronounce_word": "姑",
+            "pronounce_word_begin": 12,
+            "pronounce_word_end": 13,
+            "time_begin": 2901.333333333333,
+            "time_end": 3114.6666666666665
+         },
+         {
+            "word": "娘",
+            "word_begin": 13,
+            "word_end": 14,
+            "pronounce_word": "娘",
+            "pronounce_word_begin": 13,
+            "pronounce_word_end": 14,
+            "time_begin": 3114.6666666666665,
+            "time_end": 3285.3333333333335
+         },
+         {
+            "word": "一",
+            "word_begin": 14,
+            "word_end": 15,
+            "pronounce_word": "一",
+            "pronounce_word_begin": 14,
+            "pronounce_word_end": 15,
+            "time_begin": 3285.3333333333335,
+            "time_end": 3413.333333333333
+         },
+         {
+            "word": "面",
+            "word_begin": 15,
+            "word_end": 16,
+            "pronounce_word": "面",
+            "pronounce_word_begin": 15,
+            "pronounce_word_end": 16,
+            "time_begin": 3413.333333333333,
+            "time_end": 3541.333333333333
+         },
+         {
+            "word": "。",
+            "word_begin": 16,
+            "word_end": 17,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 16,
+            "pronounce_word_end": 17,
+            "time_begin": 3541.333333333333,
+            "time_end": 3754.6666666666665
+         }
+      ]
+   }
+]

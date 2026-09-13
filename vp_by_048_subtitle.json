@@ -1,0 +1,155 @@
+[
+   {
+      "text": "我心中，自始至终只有你一人。",
+      "pronounce_text": "我心中，自始至终只有你一人。",
+      "time_begin": 0.0,
+      "time_end": 2628.344671201814,
+      "text_begin": 0,
+      "text_end": 14,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 14,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "我",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "我",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 170.66666666666666
+         },
+         {
+            "word": "心",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "心",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 170.66666666666666,
+            "time_end": 298.66666666666663
+         },
+         {
+            "word": "中",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "中",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 298.66666666666663,
+            "time_end": 384.0
+         },
+         {
+            "word": "，",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "，",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 384.0,
+            "time_end": 426.66666666666663
+         },
+         {
+            "word": "自",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "自",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 426.66666666666663,
+            "time_end": 896.0
+         },
+         {
+            "word": "始",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "始",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 896.0,
+            "time_end": 1152.0
+         },
+         {
+            "word": "至",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "至",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 1152.0,
+            "time_end": 1280.0
+         },
+         {
+            "word": "终",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "终",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1280.0,
+            "time_end": 1450.6666666666665
+         },
+         {
+            "word": "只",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "只",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1450.6666666666665,
+            "time_end": 1664.0
+         },
+         {
+            "word": "有",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "有",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 1664.0,
+            "time_end": 1920.0
+         },
+         {
+            "word": "你",
+            "word_begin": 10,
+            "word_end": 11,
+            "pronounce_word": "你",
+            "pronounce_word_begin": 10,
+            "pronounce_word_end": 11,
+            "time_begin": 1920.0,
+            "time_end": 2090.6666666666665
+         },
+         {
+            "word": "一",
+            "word_begin": 11,
+            "word_end": 12,
+            "pronounce_word": "一",
+            "pronounce_word_begin": 11,
+            "pronounce_word_end": 12,
+            "time_begin": 2090.6666666666665,
+            "time_end": 2218.6666666666665
+         },
+         {
+            "word": "人",
+            "word_begin": 12,
+            "word_end": 13,
+            "pronounce_word": "人",
+            "pronounce_word_begin": 12,
+            "pronounce_word_end": 13,
+            "time_begin": 2218.6666666666665,
+            "time_end": 2389.333333333333
+         },
+         {
+            "word": "。",
+            "word_begin": 13,
+            "word_end": 14,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 13,
+            "pronounce_word_end": 14,
+            "time_begin": 2389.333333333333,
+            "time_end": 2560.0
+         }
+      ]
+   }
+]

@@ -1,0 +1,135 @@
+[
+   {
+      "text": "挺直腰杆，好好同我说话。",
+      "pronounce_text": "挺直腰杆，好好同我说话。",
+      "time_begin": 0.0,
+      "time_end": 2756.0544217687075,
+      "text_begin": 0,
+      "text_end": 12,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 12,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "挺",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "挺",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 170.66666666666666
+         },
+         {
+            "word": "直",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "直",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 170.66666666666666,
+            "time_end": 384.0
+         },
+         {
+            "word": "腰",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "腰",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 384.0,
+            "time_end": 512.0
+         },
+         {
+            "word": "杆",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "杆",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 512.0,
+            "time_end": 682.6666666666666
+         },
+         {
+            "word": "，",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "，",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 682.6666666666666,
+            "time_end": 725.3333333333333
+         },
+         {
+            "word": "好",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "好",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 725.3333333333333,
+            "time_end": 1194.6666666666665
+         },
+         {
+            "word": "好",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "好",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 1194.6666666666665,
+            "time_end": 1877.3333333333333
+         },
+         {
+            "word": "同",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "同",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1877.3333333333333,
+            "time_end": 1962.6666666666665
+         },
+         {
+            "word": "我",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "我",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1962.6666666666665,
+            "time_end": 2133.3333333333335
+         },
+         {
+            "word": "说",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "说",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 2133.3333333333335,
+            "time_end": 2218.6666666666665
+         },
+         {
+            "word": "话",
+            "word_begin": 10,
+            "word_end": 11,
+            "pronounce_word": "话",
+            "pronounce_word_begin": 10,
+            "pronounce_word_end": 11,
+            "time_begin": 2218.6666666666665,
+            "time_end": 2432.0
+         },
+         {
+            "word": "。",
+            "word_begin": 11,
+            "word_end": 12,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 11,
+            "pronounce_word_end": 12,
+            "time_begin": 2432.0,
+            "time_end": 2687.9999999999995
+         }
+      ]
+   }
+]

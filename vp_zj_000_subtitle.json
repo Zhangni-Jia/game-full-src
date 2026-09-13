@@ -1,0 +1,55 @@
+[
+   {
+      "text": "姑娘……",
+      "pronounce_text": "姑娘……",
+      "time_begin": 0.0,
+      "time_end": 666.2585034013606,
+      "text_begin": 0,
+      "text_end": 4,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 4,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "姑",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "姑",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 170.66666666666666
+         },
+         {
+            "word": "娘",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "娘",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 170.66666666666666,
+            "time_end": 298.66666666666663
+         },
+         {
+            "word": "…",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "…",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 298.66666666666663,
+            "time_end": 512.0
+         },
+         {
+            "word": "…",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "…",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 512.0,
+            "time_end": 554.6666666666666
+         }
+      ]
+   }
+]

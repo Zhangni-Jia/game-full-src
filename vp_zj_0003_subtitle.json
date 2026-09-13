@@ -1,0 +1,135 @@
+[
+   {
+      "text": "莫不是旅途劳顿梦魇缠身？",
+      "pronounce_text": "莫不是旅途劳顿梦魇缠身？",
+      "time_begin": 0.0,
+      "time_end": 2918.5941043083903,
+      "text_begin": 0,
+      "text_end": 12,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 12,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "莫",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "莫",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 298.66666666666663
+         },
+         {
+            "word": "不",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "不",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 298.66666666666663,
+            "time_end": 469.3333333333333
+         },
+         {
+            "word": "是",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "是",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 469.3333333333333,
+            "time_end": 597.3333333333333
+         },
+         {
+            "word": "旅",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "旅",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 597.3333333333333,
+            "time_end": 810.6666666666666
+         },
+         {
+            "word": "途",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "途",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 810.6666666666666,
+            "time_end": 1237.3333333333335
+         },
+         {
+            "word": "劳",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "劳",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 1237.3333333333335,
+            "time_end": 1408.0
+         },
+         {
+            "word": "顿",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "顿",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 1408.0,
+            "time_end": 1578.6666666666667
+         },
+         {
+            "word": "梦",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "梦",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1578.6666666666667,
+            "time_end": 1834.6666666666667
+         },
+         {
+            "word": "魇",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "魇",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1834.6666666666667,
+            "time_end": 2218.6666666666665
+         },
+         {
+            "word": "缠",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "缠",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 2218.6666666666665,
+            "time_end": 2389.333333333333
+         },
+         {
+            "word": "身",
+            "word_begin": 10,
+            "word_end": 11,
+            "pronounce_word": "身",
+            "pronounce_word_begin": 10,
+            "pronounce_word_end": 11,
+            "time_begin": 2389.333333333333,
+            "time_end": 2560.0
+         },
+         {
+            "word": "？",
+            "word_begin": 11,
+            "word_end": 12,
+            "pronounce_word": "？",
+            "pronounce_word_begin": 11,
+            "pronounce_word_end": 12,
+            "time_begin": 2560.0,
+            "time_end": 2602.6666666666665
+         }
+      ]
+   }
+]

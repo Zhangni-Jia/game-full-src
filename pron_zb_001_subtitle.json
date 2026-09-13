@@ -1,0 +1,135 @@
+[
+   {
+      "text": "此生有幸遇见姐姐。",
+      "pronounce_text": "此生有幸遇ㄐㄧㄢˋ姐姐。",
+      "time_begin": 0.0,
+      "time_end": 1734.3764172335602,
+      "text_begin": 0,
+      "text_end": 9,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 12,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "此",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "此",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 170.66666666666666
+         },
+         {
+            "word": "生",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "生",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 170.66666666666666,
+            "time_end": 384.0
+         },
+         {
+            "word": "有",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "有",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 384.0,
+            "time_end": 554.6666666666666
+         },
+         {
+            "word": "幸",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "幸",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 554.6666666666666,
+            "time_end": 725.3333333333333
+         },
+         {
+            "word": "遇",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "遇",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 725.3333333333333,
+            "time_end": 896.0
+         },
+         {
+            "word": "见",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "ㄐ",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 896.0,
+            "time_end": 938.6666666666666
+         },
+         {
+            "word": "见",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "ㄧ",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 938.6666666666666,
+            "time_end": 981.3333333333333
+         },
+         {
+            "word": "见",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "ㄢ",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 981.3333333333333,
+            "time_end": 1066.6666666666667
+         },
+         {
+            "word": "见",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "ˋ",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1066.6666666666667,
+            "time_end": 1109.3333333333333
+         },
+         {
+            "word": "姐",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "姐",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 1109.3333333333333,
+            "time_end": 1237.3333333333335
+         },
+         {
+            "word": "姐",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "姐",
+            "pronounce_word_begin": 10,
+            "pronounce_word_end": 11,
+            "time_begin": 1237.3333333333335,
+            "time_end": 1408.0
+         },
+         {
+            "word": "。",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 11,
+            "pronounce_word_end": 12,
+            "time_begin": 1408.0,
+            "time_end": 1621.3333333333333
+         }
+      ]
+   }
+]

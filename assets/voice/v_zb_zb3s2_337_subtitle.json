@@ -1,0 +1,215 @@
+[
+   {
+      "text": "可行。心中念及姑娘的话，惶恐便消减大半。",
+      "pronounce_text": "可行。心中念及姑娘的话，惶恐便消减大半。",
+      "time_begin": 0.0,
+      "time_end": 4973.5600907029475,
+      "text_begin": 0,
+      "text_end": 20,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 20,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "可",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "可",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 128.0
+         },
+         {
+            "word": "行",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "行",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 128.0,
+            "time_end": 384.0
+         },
+         {
+            "word": "。",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 384.0,
+            "time_end": 512.0
+         },
+         {
+            "word": "心",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "心",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 512.0,
+            "time_end": 1066.6666666666667
+         },
+         {
+            "word": "中",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "中",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 1066.6666666666667,
+            "time_end": 1450.6666666666665
+         },
+         {
+            "word": "念",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "念",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 1450.6666666666665,
+            "time_end": 1621.3333333333333
+         },
+         {
+            "word": "及",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "及",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 1621.3333333333333,
+            "time_end": 1792.0
+         },
+         {
+            "word": "姑",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "姑",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1792.0,
+            "time_end": 1920.0
+         },
+         {
+            "word": "娘",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "娘",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1920.0,
+            "time_end": 2090.6666666666665
+         },
+         {
+            "word": "的",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "的",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 2090.6666666666665,
+            "time_end": 2133.3333333333335
+         },
+         {
+            "word": "话",
+            "word_begin": 10,
+            "word_end": 11,
+            "pronounce_word": "话",
+            "pronounce_word_begin": 10,
+            "pronounce_word_end": 11,
+            "time_begin": 2133.3333333333335,
+            "time_end": 2304.0
+         },
+         {
+            "word": "，",
+            "word_begin": 11,
+            "word_end": 12,
+            "pronounce_word": "，",
+            "pronounce_word_begin": 11,
+            "pronounce_word_end": 12,
+            "time_begin": 2304.0,
+            "time_end": 2346.6666666666665
+         },
+         {
+            "word": "惶",
+            "word_begin": 12,
+            "word_end": 13,
+            "pronounce_word": "惶",
+            "pronounce_word_begin": 12,
+            "pronounce_word_end": 13,
+            "time_begin": 2346.6666666666665,
+            "time_end": 2858.6666666666665
+         },
+         {
+            "word": "恐",
+            "word_begin": 13,
+            "word_end": 14,
+            "pronounce_word": "恐",
+            "pronounce_word_begin": 13,
+            "pronounce_word_end": 14,
+            "time_begin": 2858.6666666666665,
+            "time_end": 3370.6666666666665
+         },
+         {
+            "word": "便",
+            "word_begin": 14,
+            "word_end": 15,
+            "pronounce_word": "便",
+            "pronounce_word_begin": 14,
+            "pronounce_word_end": 15,
+            "time_begin": 3370.6666666666665,
+            "time_end": 3925.333333333333
+         },
+         {
+            "word": "消",
+            "word_begin": 15,
+            "word_end": 16,
+            "pronounce_word": "消",
+            "pronounce_word_begin": 15,
+            "pronounce_word_end": 16,
+            "time_begin": 3925.333333333333,
+            "time_end": 4096.0
+         },
+         {
+            "word": "减",
+            "word_begin": 16,
+            "word_end": 17,
+            "pronounce_word": "减",
+            "pronounce_word_begin": 16,
+            "pronounce_word_end": 17,
+            "time_begin": 4096.0,
+            "time_end": 4309.333333333333
+         },
+         {
+            "word": "大",
+            "word_begin": 17,
+            "word_end": 18,
+            "pronounce_word": "大",
+            "pronounce_word_begin": 17,
+            "pronounce_word_end": 18,
+            "time_begin": 4309.333333333333,
+            "time_end": 4479.999999999999
+         },
+         {
+            "word": "半",
+            "word_begin": 18,
+            "word_end": 19,
+            "pronounce_word": "半",
+            "pronounce_word_begin": 18,
+            "pronounce_word_end": 19,
+            "time_begin": 4479.999999999999,
+            "time_end": 4650.666666666667
+         },
+         {
+            "word": "。",
+            "word_begin": 19,
+            "word_end": 20,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 19,
+            "pronounce_word_end": 20,
+            "time_begin": 4650.666666666667,
+            "time_end": 4821.333333333333
+         }
+      ]
+   }
+]

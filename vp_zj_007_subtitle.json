@@ -1,0 +1,165 @@
+[
+   {
+      "text": "只是姑娘眼底，似多了一层光亮。",
+      "pronounce_text": "只是姑娘眼底，似多了一层光亮。",
+      "time_begin": 0.0,
+      "time_end": 2918.5941043083903,
+      "text_begin": 0,
+      "text_end": 15,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 15,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "只",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "只",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 256.0
+         },
+         {
+            "word": "是",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "是",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 256.0,
+            "time_end": 384.0
+         },
+         {
+            "word": "姑",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "姑",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 384.0,
+            "time_end": 512.0
+         },
+         {
+            "word": "娘",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "娘",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 512.0,
+            "time_end": 682.6666666666666
+         },
+         {
+            "word": "眼",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "眼",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 682.6666666666666,
+            "time_end": 853.3333333333333
+         },
+         {
+            "word": "底",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "底",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 853.3333333333333,
+            "time_end": 1024.0
+         },
+         {
+            "word": "，",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "，",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 1024.0,
+            "time_end": 1066.6666666666667
+         },
+         {
+            "word": "似",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "似",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1066.6666666666667,
+            "time_end": 1493.3333333333333
+         },
+         {
+            "word": "多",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "多",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1493.3333333333333,
+            "time_end": 1792.0
+         },
+         {
+            "word": "了",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "了",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 1792.0,
+            "time_end": 1920.0
+         },
+         {
+            "word": "一",
+            "word_begin": 10,
+            "word_end": 11,
+            "pronounce_word": "一",
+            "pronounce_word_begin": 10,
+            "pronounce_word_end": 11,
+            "time_begin": 1920.0,
+            "time_end": 2048.0
+         },
+         {
+            "word": "层",
+            "word_begin": 11,
+            "word_end": 12,
+            "pronounce_word": "层",
+            "pronounce_word_begin": 11,
+            "pronounce_word_end": 12,
+            "time_begin": 2048.0,
+            "time_end": 2175.9999999999995
+         },
+         {
+            "word": "光",
+            "word_begin": 12,
+            "word_end": 13,
+            "pronounce_word": "光",
+            "pronounce_word_begin": 12,
+            "pronounce_word_end": 13,
+            "time_begin": 2175.9999999999995,
+            "time_end": 2346.6666666666665
+         },
+         {
+            "word": "亮",
+            "word_begin": 13,
+            "word_end": 14,
+            "pronounce_word": "亮",
+            "pronounce_word_begin": 13,
+            "pronounce_word_end": 14,
+            "time_begin": 2346.6666666666665,
+            "time_end": 2602.6666666666665
+         },
+         {
+            "word": "。",
+            "word_begin": 14,
+            "word_end": 15,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 14,
+            "pronounce_word_end": 15,
+            "time_begin": 2602.6666666666665,
+            "time_end": 2773.3333333333335
+         }
+      ]
+   }
+]

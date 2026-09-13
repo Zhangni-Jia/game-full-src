@@ -1,0 +1,155 @@
+[
+   {
+      "text": "懂得藏锋，是乱世自保的良方。",
+      "pronounce_text": "懂得藏锋，是乱世自保的良方。",
+      "time_begin": 0.0,
+      "time_end": 2790.884353741497,
+      "text_begin": 0,
+      "text_end": 14,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 14,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "懂",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "懂",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 213.33333333333331
+         },
+         {
+            "word": "得",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "得",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 213.33333333333331,
+            "time_end": 384.0
+         },
+         {
+            "word": "藏",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "藏",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 384.0,
+            "time_end": 469.3333333333333
+         },
+         {
+            "word": "锋",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "锋",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 469.3333333333333,
+            "time_end": 640.0
+         },
+         {
+            "word": "，",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "，",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 640.0,
+            "time_end": 682.6666666666666
+         },
+         {
+            "word": "是",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "是",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 682.6666666666666,
+            "time_end": 1194.6666666666665
+         },
+         {
+            "word": "乱",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "乱",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 1194.6666666666665,
+            "time_end": 1621.3333333333333
+         },
+         {
+            "word": "世",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "世",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1621.3333333333333,
+            "time_end": 1792.0
+         },
+         {
+            "word": "自",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "自",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1792.0,
+            "time_end": 1920.0
+         },
+         {
+            "word": "保",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "保",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 1920.0,
+            "time_end": 2048.0
+         },
+         {
+            "word": "的",
+            "word_begin": 10,
+            "word_end": 11,
+            "pronounce_word": "的",
+            "pronounce_word_begin": 10,
+            "pronounce_word_end": 11,
+            "time_begin": 2048.0,
+            "time_end": 2090.6666666666665
+         },
+         {
+            "word": "良",
+            "word_begin": 11,
+            "word_end": 12,
+            "pronounce_word": "良",
+            "pronounce_word_begin": 11,
+            "pronounce_word_end": 12,
+            "time_begin": 2090.6666666666665,
+            "time_end": 2261.3333333333335
+         },
+         {
+            "word": "方",
+            "word_begin": 12,
+            "word_end": 13,
+            "pronounce_word": "方",
+            "pronounce_word_begin": 12,
+            "pronounce_word_end": 13,
+            "time_begin": 2261.3333333333335,
+            "time_end": 2432.0
+         },
+         {
+            "word": "。",
+            "word_begin": 13,
+            "word_end": 14,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 13,
+            "pronounce_word_end": 14,
+            "time_begin": 2432.0,
+            "time_end": 2645.3333333333335
+         }
+      ]
+   }
+]

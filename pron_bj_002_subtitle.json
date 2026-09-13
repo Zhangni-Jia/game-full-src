@@ -1,0 +1,225 @@
+[
+   {
+      "text": "方才见你立于梨花树下，似有心事萦怀。",
+      "pronounce_text": "方才ㄐㄧㄢˋ你立于梨花树下，似有心事萦怀。",
+      "time_begin": 0.0,
+      "time_end": 3139.183673469388,
+      "text_begin": 0,
+      "text_end": 18,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 21,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "方",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "方",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 213.33333333333331
+         },
+         {
+            "word": "才",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "才",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 213.33333333333331,
+            "time_end": 341.3333333333333
+         },
+         {
+            "word": "见",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "ㄐ",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 341.3333333333333,
+            "time_end": 384.0
+         },
+         {
+            "word": "见",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "ㄧ",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 384.0,
+            "time_end": 426.66666666666663
+         },
+         {
+            "word": "见",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "ㄢ",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 426.66666666666663,
+            "time_end": 469.3333333333333
+         },
+         {
+            "word": "见",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "ˋ",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 469.3333333333333,
+            "time_end": 512.0
+         },
+         {
+            "word": "你",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "你",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 512.0,
+            "time_end": 640.0
+         },
+         {
+            "word": "立",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "立",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 640.0,
+            "time_end": 768.0
+         },
+         {
+            "word": "于",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "于",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 768.0,
+            "time_end": 896.0
+         },
+         {
+            "word": "梨",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "梨",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 896.0,
+            "time_end": 1024.0
+         },
+         {
+            "word": "花",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "花",
+            "pronounce_word_begin": 10,
+            "pronounce_word_end": 11,
+            "time_begin": 1024.0,
+            "time_end": 1152.0
+         },
+         {
+            "word": "树",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "树",
+            "pronounce_word_begin": 11,
+            "pronounce_word_end": 12,
+            "time_begin": 1152.0,
+            "time_end": 1322.6666666666667
+         },
+         {
+            "word": "下",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "下",
+            "pronounce_word_begin": 12,
+            "pronounce_word_end": 13,
+            "time_begin": 1322.6666666666667,
+            "time_end": 1450.6666666666665
+         },
+         {
+            "word": "，",
+            "word_begin": 10,
+            "word_end": 11,
+            "pronounce_word": "，",
+            "pronounce_word_begin": 13,
+            "pronounce_word_end": 14,
+            "time_begin": 1450.6666666666665,
+            "time_end": 1493.3333333333333
+         },
+         {
+            "word": "似",
+            "word_begin": 11,
+            "word_end": 12,
+            "pronounce_word": "似",
+            "pronounce_word_begin": 14,
+            "pronounce_word_end": 15,
+            "time_begin": 1493.3333333333333,
+            "time_end": 1920.0
+         },
+         {
+            "word": "有",
+            "word_begin": 12,
+            "word_end": 13,
+            "pronounce_word": "有",
+            "pronounce_word_begin": 15,
+            "pronounce_word_end": 16,
+            "time_begin": 1920.0,
+            "time_end": 2218.6666666666665
+         },
+         {
+            "word": "心",
+            "word_begin": 13,
+            "word_end": 14,
+            "pronounce_word": "心",
+            "pronounce_word_begin": 16,
+            "pronounce_word_end": 17,
+            "time_begin": 2218.6666666666665,
+            "time_end": 2346.6666666666665
+         },
+         {
+            "word": "事",
+            "word_begin": 14,
+            "word_end": 15,
+            "pronounce_word": "事",
+            "pronounce_word_begin": 17,
+            "pronounce_word_end": 18,
+            "time_begin": 2346.6666666666665,
+            "time_end": 2517.333333333333
+         },
+         {
+            "word": "萦",
+            "word_begin": 15,
+            "word_end": 16,
+            "pronounce_word": "萦",
+            "pronounce_word_begin": 18,
+            "pronounce_word_end": 19,
+            "time_begin": 2517.333333333333,
+            "time_end": 2645.3333333333335
+         },
+         {
+            "word": "怀",
+            "word_begin": 16,
+            "word_end": 17,
+            "pronounce_word": "怀",
+            "pronounce_word_begin": 19,
+            "pronounce_word_end": 20,
+            "time_begin": 2645.3333333333335,
+            "time_end": 2816.0
+         },
+         {
+            "word": "。",
+            "word_begin": 17,
+            "word_end": 18,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 20,
+            "pronounce_word_end": 21,
+            "time_begin": 2816.0,
+            "time_end": 3029.333333333333
+         }
+      ]
+   }
+]

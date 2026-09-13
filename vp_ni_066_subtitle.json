@@ -1,0 +1,135 @@
+[
+   {
+      "text": "我一直在为自己谋求生路。",
+      "pronounce_text": "我一直在为自己谋求生路。",
+      "time_begin": 0.0,
+      "time_end": 2071.0657596371884,
+      "text_begin": 0,
+      "text_end": 12,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 12,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "我",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "我",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 170.66666666666666
+         },
+         {
+            "word": "一",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "一",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 170.66666666666666,
+            "time_end": 341.3333333333333
+         },
+         {
+            "word": "直",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "直",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 341.3333333333333,
+            "time_end": 512.0
+         },
+         {
+            "word": "在",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "在",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 512.0,
+            "time_end": 640.0
+         },
+         {
+            "word": "为",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "为",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 640.0,
+            "time_end": 810.6666666666666
+         },
+         {
+            "word": "自",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "自",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 810.6666666666666,
+            "time_end": 938.6666666666666
+         },
+         {
+            "word": "己",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "己",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 938.6666666666666,
+            "time_end": 1066.6666666666667
+         },
+         {
+            "word": "谋",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "谋",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1066.6666666666667,
+            "time_end": 1237.3333333333335
+         },
+         {
+            "word": "求",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "求",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1237.3333333333335,
+            "time_end": 1365.3333333333333
+         },
+         {
+            "word": "生",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "生",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 1365.3333333333333,
+            "time_end": 1536.0
+         },
+         {
+            "word": "路",
+            "word_begin": 10,
+            "word_end": 11,
+            "pronounce_word": "路",
+            "pronounce_word_begin": 10,
+            "pronounce_word_end": 11,
+            "time_begin": 1536.0,
+            "time_end": 1749.3333333333333
+         },
+         {
+            "word": "。",
+            "word_begin": 11,
+            "word_end": 12,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 11,
+            "pronounce_word_end": 12,
+            "time_begin": 1749.3333333333333,
+            "time_end": 1962.6666666666665
+         }
+      ]
+   }
+]

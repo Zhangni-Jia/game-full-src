@@ -1,0 +1,85 @@
+[
+   {
+      "text": "那就好，走吧。",
+      "pronounce_text": "那就好，走吧。",
+      "time_begin": 0.0,
+      "time_end": 1943.356009070295,
+      "text_begin": 0,
+      "text_end": 7,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 7,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "那",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "那",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 213.33333333333331
+         },
+         {
+            "word": "就",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "就",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 213.33333333333331,
+            "time_end": 341.3333333333333
+         },
+         {
+            "word": "好",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "好",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 341.3333333333333,
+            "time_end": 469.3333333333333
+         },
+         {
+            "word": "，",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "，",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 469.3333333333333,
+            "time_end": 512.0
+         },
+         {
+            "word": "走",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "走",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 512.0,
+            "time_end": 896.0
+         },
+         {
+            "word": "吧",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "吧",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 896.0,
+            "time_end": 981.3333333333333
+         },
+         {
+            "word": "。",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 981.3333333333333,
+            "time_end": 1024.0
+         }
+      ]
+   }
+]

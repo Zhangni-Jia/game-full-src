@@ -1,0 +1,115 @@
+[
+   {
+      "text": "王爷，我不愿欺瞒你。",
+      "pronounce_text": "王爷，我不愿欺瞒你。",
+      "time_begin": 0.0,
+      "time_end": 2024.625850340136,
+      "text_begin": 0,
+      "text_end": 10,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 10,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "王",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "王",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 256.0
+         },
+         {
+            "word": "爷",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "爷",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 256.0,
+            "time_end": 384.0
+         },
+         {
+            "word": "，",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "，",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 384.0,
+            "time_end": 426.66666666666663
+         },
+         {
+            "word": "我",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "我",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 426.66666666666663,
+            "time_end": 682.6666666666666
+         },
+         {
+            "word": "不",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "不",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 682.6666666666666,
+            "time_end": 1109.3333333333333
+         },
+         {
+            "word": "愿",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "愿",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 1109.3333333333333,
+            "time_end": 1280.0
+         },
+         {
+            "word": "欺",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "欺",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 1280.0,
+            "time_end": 1408.0
+         },
+         {
+            "word": "瞒",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "瞒",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1408.0,
+            "time_end": 1621.3333333333333
+         },
+         {
+            "word": "你",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "你",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1621.3333333333333,
+            "time_end": 1749.3333333333333
+         },
+         {
+            "word": "。",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 1749.3333333333333,
+            "time_end": 1920.0
+         }
+      ]
+   }
+]

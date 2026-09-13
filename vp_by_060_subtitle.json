@@ -1,0 +1,165 @@
+[
+   {
+      "text": "有妹妹这句话，我便能咬牙坚持。",
+      "pronounce_text": "有妹妹这句话，我便能咬牙坚持。",
+      "time_begin": 0.0,
+      "time_end": 2790.884353741497,
+      "text_begin": 0,
+      "text_end": 15,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 15,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "有",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "有",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 256.0
+         },
+         {
+            "word": "妹",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "妹",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 256.0,
+            "time_end": 384.0
+         },
+         {
+            "word": "妹",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "妹",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 384.0,
+            "time_end": 512.0
+         },
+         {
+            "word": "这",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "这",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 512.0,
+            "time_end": 640.0
+         },
+         {
+            "word": "句",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "句",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 640.0,
+            "time_end": 725.3333333333333
+         },
+         {
+            "word": "话",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "话",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 725.3333333333333,
+            "time_end": 853.3333333333333
+         },
+         {
+            "word": "，",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "，",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 853.3333333333333,
+            "time_end": 896.0
+         },
+         {
+            "word": "我",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "我",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 896.0,
+            "time_end": 1152.0
+         },
+         {
+            "word": "便",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "便",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1152.0,
+            "time_end": 1749.3333333333333
+         },
+         {
+            "word": "能",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "能",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 1749.3333333333333,
+            "time_end": 1877.3333333333333
+         },
+         {
+            "word": "咬",
+            "word_begin": 10,
+            "word_end": 11,
+            "pronounce_word": "咬",
+            "pronounce_word_begin": 10,
+            "pronounce_word_end": 11,
+            "time_begin": 1877.3333333333333,
+            "time_end": 2005.3333333333333
+         },
+         {
+            "word": "牙",
+            "word_begin": 11,
+            "word_end": 12,
+            "pronounce_word": "牙",
+            "pronounce_word_begin": 11,
+            "pronounce_word_end": 12,
+            "time_begin": 2005.3333333333333,
+            "time_end": 2175.9999999999995
+         },
+         {
+            "word": "坚",
+            "word_begin": 12,
+            "word_end": 13,
+            "pronounce_word": "坚",
+            "pronounce_word_begin": 12,
+            "pronounce_word_end": 13,
+            "time_begin": 2175.9999999999995,
+            "time_end": 2304.0
+         },
+         {
+            "word": "持",
+            "word_begin": 13,
+            "word_end": 14,
+            "pronounce_word": "持",
+            "pronounce_word_begin": 13,
+            "pronounce_word_end": 14,
+            "time_begin": 2304.0,
+            "time_end": 2474.666666666667
+         },
+         {
+            "word": "。",
+            "word_begin": 14,
+            "word_end": 15,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 14,
+            "pronounce_word_end": 15,
+            "time_begin": 2474.666666666667,
+            "time_end": 2645.3333333333335
+         }
+      ]
+   }
+]

@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>飘·黛玉重归</title>
+<style>
+  /* ===== 字体统一（《字体.txt》要求）=====
+     全游戏唯一 WebFont：思源宋体（本地 woff2，离线可用）。
+     禁止 fallback 到任何系统字体；固定字号，基线完全一致。 */
+  @font-face {
+    font-family: "Source Han Serif CN";
+    src: url("fonts/SourceHanSerifCN-Regular.woff2") format("woff2");
+    font-weight: 400; font-style: normal; font-display: block;
+  }
+  @font-face {
+    font-family: "Source Han Serif CN";
+    src: url("fonts/SourceHanSerifCN-Bold.woff2") format("woff2");
+    font-weight: 700; font-style: normal; font-display: block;
+  }
+  :root { --fs: 24px; }   /* 全游戏统一字号（《新增》要求：全局调大字号） */
+
+  * { font-family: "Source Han Serif CN"; font-size: var(--fs); }
+
+  html, body { margin:0; padding:0; height:100%; background:#120a10; overflow:hidden;
+    -webkit-text-size-adjust:100%; text-size-adjust:100%; }
+
+  #viewport { position:fixed; inset:0; display:flex; align-items:center; justify-content:center; }
+  #wrap { position:relative; width:100vw; height:100vh; overflow:hidden; cursor:pointer;
+    user-select:none; -webkit-user-select:none; }
+  #bg { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; display:block; }
+
+  /* ---- 左上角区域：属性按钮 + 结局解锁计数（样式完全一致） ---- */
+  #topBar { position:absolute; top:14px; left:14px; z-index:60;
+    display:flex; align-items:center; gap:10px; }
+  .chip { cursor:pointer; color:#7a4a22; background:rgba(255,246,220,.82);
+    border:1px solid rgba(190,150,90,.75); border-radius:9px; padding:6px 12px;
+    letter-spacing:2px; box-shadow:0 1px 4px rgba(90,50,10,.25);
+    line-height:1.4; white-space:nowrap; }
+
+  #panel { position:absolute; top:64px; left:14px; z-index:60; display:none;
+    background:rgba(255,248,226,.94); border:1.5px solid rgba(190,150,90,.9); border-radius:12px;
+    padding:10px 16px; box-shadow:0 3px 14px rgba(90,50,10,.35); min-width:168px; cursor:default; }
+  #panel.open { display:block; }
+  .stat-row { display:flex; justify-content:space-between; gap:18px;
+    color:#5d3a18; line-height:1.9; }
+
+  /* ---- 属性变动弹窗（《新增》要求：横版样式，紧贴文本框/选择框上方，自动消失） ---- */
+  #fxPopup { position:absolute; z-index:80; display:none;
+    left:50%; transform:translateX(-50%);
+    background:rgba(255,248,226,.96); border:1.5px solid rgba(190,150,90,.95); border-radius:14px;
+    padding:12px 28px; box-shadow:0 4px 18px rgba(90,50,10,.4);
+    pointer-events:none; }
+  #fxPopup.show { display:block; }
+  /* 横版：标题 + 各属性变化排成一行 */
+  #fxPopup .fx-inner { display:flex; align-items:baseline; gap:26px;
+    flex-wrap:nowrap; white-space:nowrap; }
+  .fx-title { color:#8b5e2e; letter-spacing:1px; }
+  .fx-row { color:#5d3a18; white-space:nowrap; }
+  .fx-row.up { color:#1f7a33; font-weight:bold; }
+  .fx-row.down { color:#b03030; font-weight:bold; }
+
+  /* ---- 统一文本框（自动生成，样式参考北静王对话框） ---- */
+  .dialog-box { position:absolute; z-index:20;
+    left:10%; right:10%; bottom:8%;
+    background:rgba(255,250,235,.92);
+    border:2px solid rgba(190,150,90,.85);
+    border-radius:16px;
+    box-shadow:inset 0 0 0 4px rgba(255,250,235,.5), inset 0 0 0 6px rgba(190,150,90,.5),
+      0 4px 20px rgba(60,20,10,.25);
+    padding:32px 28px 20px;
+    overflow:visible;
+    cursor:default; }
+
+  .speaker-tag { position:absolute; top:-16px; left:24px;
+    background:rgba(190,150,90,.92); color:#fff;
+    padding:3px 14px; border-radius:8px; letter-spacing:2px;
+    box-shadow:0 2px 6px rgba(60,20,10,.3); }
+
+  .dialog-text { color:#4a2c12; line-height:1.78; text-align:left;
+    word-break:break-all; white-space:pre-wrap; }
+
+  .dialog-nav { position:static; top:auto; right:auto; bottom:auto; left:auto;
+    transform:none; z-index:25; width:auto; min-width:0; height:auto;
+    appearance:none; -webkit-appearance:none;
+    cursor:pointer; color:#7a4a22; background:rgba(255,246,220,.82);
+    border:1px solid rgba(190,150,90,.75); border-radius:9px;
+    padding:6px 12px; letter-spacing:2px;
+    box-shadow:0 1px 4px rgba(90,50,10,.25);
+    line-height:1.4; white-space:nowrap; opacity:1;
+    font-family:inherit; font-size:var(--fs); }
+  .dialog-nav:hover { background:rgba(255,246,220,.9); }
+  .dialog-nav:active { transform:none; }
+  .dialog-nav:disabled { opacity:1; cursor:pointer; }
+  .dialog-prev, .dialog-next { left:auto; right:auto; }
+
+  /* ---- 统一选择条（自动生成，样式参考北静王选择） ---- */
+  .choice-box { position:absolute; z-index:30;
+    left:15%; right:15%; bottom:10%;
+    display:flex; flex-direction:column; gap:14px;
+    cursor:default; }
+
+  .choice-bar { background:rgba(255,240,205,.72);
+    border:1.5px solid rgba(190,150,90,.8);
+    border-radius:12px; padding:14px 24px;
+    color:#4a2c12; line-height:1.5;
+    text-align:center; cursor:pointer;
+    transition:background .15s, box-shadow .15s;
+    box-shadow:0 2px 8px rgba(60,20,10,.18); }
+  .choice-bar:hover { background:rgba(255,225,165,.9); box-shadow:0 4px 14px rgba(60,20,10,.3); }
+
+  /* ---- 结局页（《新增》要求：文本框内水平+垂直居中） ---- */
+  .end-box { position:absolute; z-index:20;
+    left:12%; right:12%; bottom:10%;
+    background:rgba(255,250,235,.96);
+    border:2px solid rgba(190,150,90,.85);
+    border-radius:16px; padding:28px 32px;
+    box-shadow:0 4px 20px rgba(60,20,10,.25);
+    cursor:default;
+    display:flex; flex-direction:column; align-items:center; justify-content:center; }
+  .end-title { color:#6b3a1a; font-weight:bold;
+    letter-spacing:3px; margin-bottom:10px; text-align:center; }
+  .end-text { color:#4a2c12; line-height:1.78; text-align:center; }
+
+  /* ---- 弹窗（依附抉择） ---- */
+  .modal-overlay { position:absolute; inset:0; z-index:90;
+    display:flex; align-items:center; justify-content:center;
+    background:rgba(30,10,20,.45); cursor:default; }
+  .modal-box { background:rgba(255,248,226,.97);
+    border:2px solid rgba(190,150,90,.95); border-radius:18px;
+    padding:26px 34px; width:50%; max-width:520px;
+    box-shadow:0 6px 26px rgba(60,20,10,.5); text-align:center; }
+  .modal-question { color:#4a2c12; line-height:1.8; margin-bottom:18px; }
+  .modal-btn { display:block; margin:10px auto; cursor:pointer;
+    border:1.5px solid rgba(170,120,60,.9); border-radius:11px;
+    background:rgba(255,240,205,.9); color:#5d3a18;
+    padding:10px 34px; font-family:inherit; transition:background .15s;
+    width:70%; }
+  .modal-btn:hover { background:rgba(255,225,165,.95); }
+</style>
+</head>
+<body>
+<div id="viewport">
+  <div id="wrap">
+    <img id="bg" alt="">
+    <div id="topBar">
+      <div id="panelBtn" class="chip">属性</div>
+      <div id="unlockChip" class="chip">结局已解锁 0/7</div>
+    </div>
+    <div id="panel"></div>
+    <div id="fxPopup"></div>
+  </div>
+</div>
+<script src="data.js?v=25"></script>
+<script src="data2.js?v=25"></script>
+<script src="data3.js?v=25"></script>
+<script src="data4.js?v=25"></script>
+<script src="engine.js?v=35&layout=topbar2"></script>
+</body>
+</html>

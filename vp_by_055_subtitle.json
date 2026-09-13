@@ -1,0 +1,115 @@
+[
+   {
+      "text": "妹妹，我过得太煎熬。",
+      "pronounce_text": "妹妹，我过得太煎熬。",
+      "time_begin": 0.0,
+      "time_end": 2198.7755102040815,
+      "text_begin": 0,
+      "text_end": 10,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 10,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "妹",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "妹",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 213.33333333333331
+         },
+         {
+            "word": "妹",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "妹",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 213.33333333333331,
+            "time_end": 341.3333333333333
+         },
+         {
+            "word": "，",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "，",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 341.3333333333333,
+            "time_end": 384.0
+         },
+         {
+            "word": "我",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "我",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 384.0,
+            "time_end": 810.6666666666666
+         },
+         {
+            "word": "过",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "过",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 810.6666666666666,
+            "time_end": 1280.0
+         },
+         {
+            "word": "得",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "得",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 1280.0,
+            "time_end": 1408.0
+         },
+         {
+            "word": "太",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "太",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 1408.0,
+            "time_end": 1493.3333333333333
+         },
+         {
+            "word": "煎",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "煎",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1493.3333333333333,
+            "time_end": 1664.0
+         },
+         {
+            "word": "熬",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "熬",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1664.0,
+            "time_end": 1877.3333333333333
+         },
+         {
+            "word": "。",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 1877.3333333333333,
+            "time_end": 2133.3333333333335
+         }
+      ]
+   }
+]

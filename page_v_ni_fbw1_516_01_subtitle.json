@@ -1,0 +1,105 @@
+[
+   {
+      "text": "王爷亦非寻常王侯。",
+      "pronounce_text": "王爷亦非寻常王侯。",
+      "time_begin": 0.0,
+      "time_end": 1769.2063492063494,
+      "text_begin": 0,
+      "text_end": 9,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 9,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "王",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "王",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 170.66666666666666
+         },
+         {
+            "word": "爷",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "爷",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 170.66666666666666,
+            "time_end": 384.0
+         },
+         {
+            "word": "亦",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "亦",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 384.0,
+            "time_end": 512.0
+         },
+         {
+            "word": "非",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "非",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 512.0,
+            "time_end": 640.0
+         },
+         {
+            "word": "寻",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "寻",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 640.0,
+            "time_end": 810.6666666666666
+         },
+         {
+            "word": "常",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "常",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 810.6666666666666,
+            "time_end": 1024.0
+         },
+         {
+            "word": "王",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "王",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 1024.0,
+            "time_end": 1194.6666666666665
+         },
+         {
+            "word": "侯",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "侯",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1194.6666666666665,
+            "time_end": 1408.0
+         },
+         {
+            "word": "。",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1408.0,
+            "time_end": 1621.3333333333333
+         }
+      ]
+   }
+]

@@ -1,0 +1,145 @@
+[
+   {
+      "text": "往后便这般唤吧，听着顺耳。",
+      "pronounce_text": "往后便这般唤吧，听着顺耳。",
+      "time_begin": 0.0,
+      "time_end": 2883.764172335601,
+      "text_begin": 0,
+      "text_end": 13,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 13,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "往",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "往",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 42.666666666666664,
+            "time_end": 213.33333333333331
+         },
+         {
+            "word": "后",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "后",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 213.33333333333331,
+            "time_end": 384.0
+         },
+         {
+            "word": "便",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "便",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 384.0,
+            "time_end": 682.6666666666666
+         },
+         {
+            "word": "这",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "这",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 682.6666666666666,
+            "time_end": 853.3333333333333
+         },
+         {
+            "word": "般",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "般",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 853.3333333333333,
+            "time_end": 1024.0
+         },
+         {
+            "word": "唤",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "唤",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 1024.0,
+            "time_end": 1152.0
+         },
+         {
+            "word": "吧",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "吧",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 1152.0,
+            "time_end": 1365.3333333333333
+         },
+         {
+            "word": "，",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "，",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1365.3333333333333,
+            "time_end": 1408.0
+         },
+         {
+            "word": "听",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "听",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1408.0,
+            "time_end": 1920.0
+         },
+         {
+            "word": "着",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "着",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 1920.0,
+            "time_end": 2261.3333333333335
+         },
+         {
+            "word": "顺",
+            "word_begin": 10,
+            "word_end": 11,
+            "pronounce_word": "顺",
+            "pronounce_word_begin": 10,
+            "pronounce_word_end": 11,
+            "time_begin": 2261.3333333333335,
+            "time_end": 2389.333333333333
+         },
+         {
+            "word": "耳",
+            "word_begin": 11,
+            "word_end": 12,
+            "pronounce_word": "耳",
+            "pronounce_word_begin": 11,
+            "pronounce_word_end": 12,
+            "time_begin": 2389.333333333333,
+            "time_end": 2602.6666666666665
+         },
+         {
+            "word": "。",
+            "word_begin": 12,
+            "word_end": 13,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 12,
+            "pronounce_word_end": 13,
+            "time_begin": 2602.6666666666665,
+            "time_end": 2816.0
+         }
+      ]
+   }
+]
