@@ -11,16 +11,16 @@
   @font-face {
     font-family: "Source Han Serif CN";
     src: url("fonts/SourceHanSerifCN-Regular.woff2") format("woff2");
-    font-weight: 400; font-style: normal; font-display: block;
+    font-weight: 400; font-style: normal; font-display: swap;
   }
   @font-face {
     font-family: "Source Han Serif CN";
     src: url("fonts/SourceHanSerifCN-Bold.woff2") format("woff2");
-    font-weight: 700; font-style: normal; font-display: block;
+    font-weight: 700; font-style: normal; font-display: swap;
   }
   :root { --fs: 24px; }   /* 全游戏统一字号（《新增》要求：全局调大字号） */
 
-  * { font-family: "Source Han Serif CN"; font-size: var(--fs); }
+  * { font-family: "Source Han Serif CN", "Songti SC", "SimSun", serif; font-size: var(--fs); }
 
   html, body { margin:0; padding:0; height:100%; background:#120a10; overflow:hidden;
     -webkit-text-size-adjust:100%; text-size-adjust:100%; }
